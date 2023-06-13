@@ -1,9 +1,13 @@
 {
   "name": "slug-sequencer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generates a unique slug, handling duplicates and patterns",
   "main": "index.ts",
   "keywords": [  "mongoose",  "slugify",  "validation",  "generate slug",  "schema",  "model",  "pre-save hook",  "plugin",  "sequencing",  "counter",  "regex pattern",  "field validation",  "document modification",  "unique slug",  "concatenation"]  ,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MrMiM-tfe/slug-sequencer.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
