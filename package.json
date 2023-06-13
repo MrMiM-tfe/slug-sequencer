@@ -1,0 +1,19 @@
+{
+  "name": "slug-sequencer",
+  "version": "1.0.0",
+  "description": "Generates a unique slug, handling duplicates and patterns",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MrMiM",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  },
+  "dependencies": {
+    "@types/mongoose": "^5.11.97",
+    "express": "^4.18.2",
+    "slugify": "^1.6.6"
+  }
+}
